@@ -27,3 +27,4 @@ c::p                         ; [C]     Reset Camera
 
 p::LButton                   ; [P]     Left Mouse Button; In case you need your mouse
 Pause::Pause                 ; [Pause] Pause the script. Pressing it again will unpause.
+\::RButton                   ; [\]     Right Mouse Button.
